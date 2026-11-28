@@ -34,9 +34,9 @@ The majority of posters and billboards I walk by are either *about* AI or *use* 
 However, it's more often than not that AI usage in art these days is almost undetectable. You really have to evaluate something for mistakes that only a computer would make, and even then you aren't guaranteed to find a mistake.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/64baaed4-92b0-4084-9c5a-cedd0171bc38"" alt="ai-art" width="250">
+  <img src="https://github.com/user-attachments/assets/64baaed4-92b0-4084-9c5a-cedd0171bc38" alt="ai-art" width="250">
   <br>
-    <i>This</i> is AI (generated with KusArt)...
+    <i>This is AI (generated with KusArt)...</i>
   </br>
 </p>
 
@@ -58,9 +58,16 @@ Is there a chance we can fail and transition into a Wall-E scenario? Yeah, defin
 
 Reading that last bit back to myself, almost everything positive in my headspace ran from me. The race isn't lost yet, though; if we make the right judgments moving forward, greatness can be achieved with or without AI—we need to be the ones in control.
 
-<img width="618" height="348" alt="pure-aura-x" src="https://github.com/user-attachments/assets/e43f97bd-cbbe-4fac-9273-27be7a682872" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e43f97bd-cbbe-4fac-9273-27be7a682872" alt="pure-aura-x" width="400">
+  <br>
+    <i>To Be Hero X (Episode 22)</i>
+  </br>
+</p>
 
 ## References
 Here are the articles I used to confirm my understanding of terminology and find content that I used throughout this rant:
 - [What is generative AI?](https://research.ibm.com/blog/what-is-generative-AI) by [IBM](https://www.ibm.com/about)
 - [Why KusArt Is the Best Anime AI Art Generator for Creating Anime Characters](https://kusart.com/blog/why-kusapics-best-anime-ai-generator) by [KusArt](https://kusart.com/)
+- [To Be Hero X | E22 — The Last Smile](https://www.crunchyroll.com/watch/G31UV274N/the-last-smile) by [Li Haoling](https://x.com/haolin24870943?lang=en)
+  - Gif Source: [This](https://www.reddit.com/r/ToBeHero_X/comments/1v66mx9/this_was_so_peak/) reddit post, in the comments
